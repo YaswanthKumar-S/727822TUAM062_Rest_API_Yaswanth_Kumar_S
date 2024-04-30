@@ -1,13 +1,13 @@
-package com.example.Spring_Boot_CC1_Login;
+package example1.example;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class SpringBootCc1LoginApplication {
+public class ExampleApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(SpringBootCc1LoginApplication.class, args);
+		SpringApplication.run(ExampleApplication.class, args);
 	}
 
 }
